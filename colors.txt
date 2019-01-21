@@ -19,3 +19,6 @@ ivory
 bronze
 blonde
 green
+purple
+violet
+test
